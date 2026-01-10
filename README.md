@@ -1,5 +1,5 @@
 # Download
-1. Download the .blend from the latest release in the [Releases](https://github.com/goribby/Cyberpunk2077-MultiRig/releases) page.
+1. Download the .blend from [Gumroad](https://goribby.gumroad.com/l/cyberpunk-multirig).
 
 2. Open the .blend and enjoy!
 
